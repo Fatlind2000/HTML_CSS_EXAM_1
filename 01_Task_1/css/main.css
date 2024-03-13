@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.centered-text {
+  width: 100vw;
+  height: 100vh;
+  background-color: #ffda69;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Indie Flower", cursive;
+  font-weight: 400;
+}
+.centered-text p {
+  width: 100px;
+  font-size: 3rem;
+}
